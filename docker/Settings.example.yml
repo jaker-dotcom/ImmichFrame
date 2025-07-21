@@ -5,13 +5,13 @@ General:
   Webcalendars:
     - calendarurl
   RefreshAlbumPeopleInterval: 12
-  PhotoDateFormat: MM/dd/yyyy
+  PhotoDateFormat: 'MM/dd/yyyy'
   ImageLocationFormat: 'City,State,Country'
   WeatherApiKey: ''
   UnitSystem: imperial
   WeatherLatLong: '40.730610,-73.935242'
   Webhook: null
-  Language: en
+  Language: 'en'
   Interval: 45
   TransitionDuration: 2
   ShowClock: true
